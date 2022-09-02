@@ -93,3 +93,7 @@ form {
       transform: scale(1.0); 
     } 
   }
+
+.formulario-vacio {
+  border: 1px solid red;
+}
